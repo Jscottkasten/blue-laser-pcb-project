@@ -1,0 +1,20 @@
+gEDA/gnetlist version 20061020
+gEDA/gnetlist comes with ABSOLUTELY NO WARRANTY; see COPYING for more details.
+This is free software, and you are welcome to redistribute it under certain
+conditions; please see the COPYING file for more details.
+
+Remember to check that your schematic has no errors using the drc2 backend.
+You can do it running 'gnetlist -g drc2 your_schematic.sch -o drc_output.txt'
+and seeing the contents of the file drc_output.txt.
+
+Read system-gafrc file [/etc/gEDA/system-gafrc]
+Did not find optional ~/.gEDA/gafrc file [/home/jsk/.gEDA]
+Read local gafrc file [/home/jsk/Blue Laser/gaf/laser-const-current-pwr/gafrc]
+Read system-gnetlistrc file [/etc/gEDA/system-gnetlistrc]
+Did not find optional ~/.gEDA/gnetlistrc file [/home/jsk/.gEDA]
+Did not find optional local gnetlistrc file [/home/jsk/Blue Laser/gaf/laser-const-current-pwr/gnetlistrc]
+RC file [/home/jsk/Blue Laser/gaf/laser-const-current-pwr/gafrc] already read in.
+Opened file [/home/jsk/Blue Laser/gaf/laser-const-current-pwr/pwr-sup.sch]
+Read init scm file [/usr/share/gEDA/scheme/gnetlist.scm]
+Read gsch2pcb scm file [/usr/share/gEDA/scheme/gnet-gsch2pcb.scm]
+Read scm file [gnet-gsch2pcb-tmp.scm]
